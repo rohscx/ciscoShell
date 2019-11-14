@@ -1,0 +1,24 @@
+{
+  "name": "ciscoshell",
+  "version": "1.0.0",
+  "description": "Cisco SSH shell to run commands",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohscx/ciscoShell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohscx/ciscoShell/issues"
+  },
+  "homepage": "https://github.com/rohscx/ciscoShell#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "nodeutilz": "^1.0.8",
+    "ssh2shell": "^1.9.3"
+  }
+}
