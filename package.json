@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/rohscx/ciscoShell#readme",
   "dependencies": {
+    "bottleneck": "^2.19.5",
     "dotenv": "^8.2.0",
     "nodeutilz": "^1.0.8",
     "ssh2shell": "^1.9.3"
