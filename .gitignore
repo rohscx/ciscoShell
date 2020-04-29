@@ -59,6 +59,15 @@ typings/
 
 # next.js build output
 .next
-export/
-import/
-tasks/
+
+# Custom
+securityConfiguration.js
+export/*/*[.png,.txt,.js,.json,.csv,.html]
+import/*/*[.png,.txt,.js,.json,.csv,.html]
+tasks/*/*[.png,.txt,.js,.json,.csv,.html]
+export/*[.png,.txt,.js,.json,.csv,.html]
+import/*[.png,.txt,.js,.json,.csv,.html]
+tasks/*[.png,.txt,.js,.json,.csv,.html]
+
+
+export/associationVpnUsers_04052020_1543.csv
